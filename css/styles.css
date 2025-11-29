@@ -1,0 +1,70 @@
+body {
+    background-image: url('../images/Sweets_BG.jpg');
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(244, 45, 255, 0.95);
+    color: white;
+    border-radius: 50px;
+    width: 20%;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 50%;
+    margin-bottom: 50px;
+}
+
+tr, th, td {
+    width: 70%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 4px;
+}
+
+/* Colors for table rows */
+table .table-pink {
+    background-color: #FFC0CB;
+}
+
+table .table-cyan {
+    background-color: #E0FFFF;
+}
+table .table-cyan.menu-section {
+    background-color: #87e3e3;
+}
+
+table .table-green {
+    background-color: #c3f8c3;
+}
+table .table-green.menu-section {
+    background-color: #93f993;
+}
+
+table .table-blue {
+    background-color: #c7e2eb;
+}
+table .table-blue.menu-section {
+    background-color: #ADD8E6;
+}
+
+table .table-purple {
+    background-color: #E6E6FA;
+}table .table-purple.menu-section {
+    background-color: #c1c1ed;
+}
+
+table .table-yellow {
+    background-color: #FFFFE0;
+}
+table .table-yellow.menu-section {
+    background-color: #fffda1;
+}
